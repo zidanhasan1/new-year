@@ -1,0 +1,166 @@
+*{
+    margin:0;
+    font-family: 'Work Sans';
+}
+.header{
+    background-image: url(/images/banner/banner2.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height:100vh;
+    display: flex;
+    justify-content:end;
+    align-items: center;
+}
+.content{
+    width: 45%;
+    text-align: right;
+    padding-right: 15px;
+}
+.header-title{
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btn-header{
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 30px;
+    margin-top: 15px;
+}
+.header-page{
+    margin-bottom: 20px;
+}
+
+/* lady */
+.lady{
+    width: 100%;
+    color: black;
+    height: 809px;
+    margin: 100px 50px;
+    background:#FFFFFF;
+    display: flex;
+}
+.lady-title{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.lady-ditails{
+   font-weight: 400;
+   font-size: 16px; 
+   margin: 10px 0;
+}
+.details ul{
+    list-style-type:none;
+    font-weight: 400;
+    font-size: 16px; 
+    line-height: 26px; 
+    text-align: left;
+}
+.details ul li{
+    padding-left: 0;
+}
+.details{
+ 
+ text-align: left;
+ padding-left: 100px;
+ justify-content: left;
+ width: 40%;
+ 
+ padding-top: 300px;
+}
+
+/* My plan */
+
+.my-plan{
+    justify-content: center;
+    justify-content: center;
+    width: 1141px;
+  height: 299.96px;
+  left: 230px;
+  top: 1792.3px;
+  margin-top: 50px;
+   
+}
+.item{
+    width: 100%;
+    height: 809px;
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0;
+    padding: 0;
+}
+.my-plan-t{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+.itam-l-t{
+    margin-top: 100px 0;
+}
+
+/* bannar */
+.banner{
+    height: 300px;
+    width: 1140px;
+    left: 230px;
+   top: 2216.3px;
+  margin: 0 220px ;
+ background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 60%),url(/images/watch.png);  
+
+}
+
+.b-itam{
+    padding: 60px;
+    color: #FFFFFF;
+    width: 400px;
+}
+.b-title{
+    font-weight: 700;
+ font-size: 40px;
+ margin-bottom: 20px;
+}
+.btn-m{
+    background:whitesmoke;
+    color: #F15B22;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: none;
+    border-style: none;
+    
+}
+/* fotter */
+
+.fotter{
+    width: 1600px;
+ height: 577px;
+ display: flex;
+ justify-content: space-between;
+ background: #151414;
+ margin-top: 30px;
+ padding: 200px;
+ 
+
+}
+.future{
+    width: 485px;
+  height: 317px;
+  color: #FFFFFF;
+}
+.subs{
+    color: #FFFFFF;
+}
+.future-ulp{
+    display: flex;
+}
+.future-ulp a{
+    display: block;
+    
+}
+.future-ulp li{
+    text-decoration: none;
+}
+.email{
+
+}
