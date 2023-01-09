@@ -3,7 +3,7 @@
     font-family: 'Work Sans';
 }
 .header{
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(./images/banner/banner2.png);
     background-repeat: no-repeat;
     width: 100%;
     height:100vh;
